@@ -3,11 +3,7 @@
 
 Impartus Downloader (Desktop App)
 ===
-
-***For Android version - click***
-https://github.com/paljsingh/Impartus-Downloader-Android
-
----
+Fixed version of Impartus Downloader made py paljsingh. Original repo : https://github.com/paljsingh/impartus-downloader
 
 
 Downloader for impartus streaming videos.
