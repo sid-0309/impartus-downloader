@@ -3,7 +3,7 @@
 
 Impartus Downloader (Desktop App)
 ===
-Fixed version of Impartus Downloader made py paljsingh. Original repo : https://github.com/paljsingh/impartus-downloader
+Fixed version of Impartus Downloader made by paljsingh. Original repo : https://github.com/paljsingh/impartus-downloader
 
 
 Downloader for impartus streaming videos.
